@@ -5,6 +5,9 @@
 
 [Network Security Best practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-best-practices)
 
+
+## Network Security Groups
+
 [Azure Network Security Groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
 
 [Azure Application Security Groups](https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups)
@@ -17,6 +20,8 @@
 [Azure Firewall Manager](https://learn.microsoft.com/en-us/azure/firewall-manager/overview)
 
 [Azure Well-Architected Framework review - Azure Firewall](https://learn.microsoft.com/en-us/azure/architecture/framework/services/networking/azure-firewall)
+
+[Azure Firewall Learn module](https://learn.microsoft.com/en-us/training/modules/introduction-azure-firewall/)
 
 
 ## Web Application Firewall
@@ -33,6 +38,10 @@
 
 [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/overview)
 
+[Azure Web Application Firewall Learn module](https://learn.microsoft.com/en-us/training/modules/introduction-azure-web-application-firewall/)
+
+[Azure Front door learn module](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-front-door/)
+
 
 ## Azure DDoS Protection
 
@@ -41,6 +50,8 @@
 [Azure DDoS Protection SKU Comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-sku-comparison)
 
 [Azure DDoS best practices](https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices)
+
+[Azure DDoS Protection learn module](https://learn.microsoft.com/en-us/training/modules/introduction-azure-ddos-protection/)
 
 
 ## Threat detection and protection
